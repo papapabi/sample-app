@@ -11,6 +11,6 @@ class SiteLayoutTest < ActionDispatch::IntegrationTest
   get contact_path
     assert_select "title", full_title("Contact")
   get signup_path
-  assert_select "title", "Sign up | Ruby on Rails Tutorial Sample App"
+  assert_select "title", "Sign up | Spitter"
   end
 end

@@ -1,6 +1,6 @@
-# Ruby on Rails Tutorial sample application
+# Spitter
 
-This is the sample application for
+Spitter is a variant of the sample application in
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
@@ -13,7 +13,7 @@ is available jointly under the MIT License and the Beerware License. See
 
 ## Getting started
 
-To get started with the app, clone the repo and then install the needed gems:
+To get started with spitter, clone the repo and then install the needed gems:
 
 ```
 $ bundle install --without production
@@ -36,6 +36,3 @@ If the test suite passes, you'll be ready to run the app in a local server:
 ```
 $ rails server
 ```
-
-For more information, see the
-[*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
